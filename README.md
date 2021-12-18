@@ -12,4 +12,7 @@ Collecting data from an environment remotely can be quite important in some appl
 Measurements are recorded to the server and can be easily retrieved from the server to a computer that has the python code running. With this code, we are able to sketch the obtained distance measurements according to the car position and we can also monitor other types of measurements on the screen.
 
 ## **OPERATION**
+Initially the arduino is programmed to make the car find the center point in any room it's stationed using its sensors. When the car is positioned on the center, it starts to take distance measurements while rotating from 0 to 359 degrees and it takes one measurement for each degree. Then it transfers these “angle” and “distance” values along with other measurements to the Firebase Database. For this database, the images below can be observed.
+
+<img src="images/firebase1.png" height="250"> <img src="images/firebase2.png" height="250"> 
 
