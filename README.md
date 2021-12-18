@@ -18,6 +18,6 @@ Initially the arduino is programmed to make the car find the center point in any
 
 After all the measurements are obtained, program start drawing the map. This is done using Turtle Graphics module in python. These drawings are not 100% accurate since there will be some portion of wrong measurement data from HCSR-04 sensor but still, there is a good amount of precision. We can view the drawing process on the turtle screen below.
 
-<img src="images/turtle_image1" height="250"> <img src="images/turtle_image2" height="250"> <img src="images/turtle_image3" height="250"> 
+<img src="images/turtle_image1.png" height="250"> <img src="images/turtle_image2.png" height="250"> <img src="images/turtle_image3.png" height="250"> 
 
 
