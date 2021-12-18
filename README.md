@@ -3,7 +3,7 @@
 ## **ABSTRACT**
 In this project, we made an IoT system that does indoor mapping of a closed environment (mostly rooms) and measurements of elements such as air-quality, humidity and temperature. 
 We used machine learning to make predictions of numbers of people can inhabit in these environments. For sketching maps, we used turtle module in python and to handle measured 
-data, we used Firebase servers. A Nodemcu board is used to connect to Wi-Fi.
+data, we used Firebase servers. A Nodemcu board is used to connect to Wi-Fi. Following images are for the nodemcu board and the arduino car.
 
 <img src="images/nodemcu.png" height="250"> <img src="images/car_image1.png" height="250"> <img src="images/car_image2.png" height="250">
 
