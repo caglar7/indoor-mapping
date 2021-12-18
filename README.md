@@ -20,4 +20,7 @@ After all the measurements are obtained, program start drawing the map. This is 
 
 <img src="images/turtle_image1.png" height="250"> <img src="images/turtle_image2.png" height="250"> <img src="images/turtle_image3.png" height="250"> 
 
+As observed on the images above, there are measurements for each angle and they are drawn by blue or green dots. Since, the distance data around the corners can have more errors then the ones around the angles 0, 90, 180 and 270. We used the measurements around these angles to have better estimation of the area. At this drawing, only the areas on right, left, up and down directions with a range of 40 degrees are considered when calculating the area of the space. So, only the green dots are used to sketch the shape. In this measurement, area is calculated around 12.65 m^2.
+
+Notes: This was a final project of my IoT class and currently Firebase URL is not available.
 
